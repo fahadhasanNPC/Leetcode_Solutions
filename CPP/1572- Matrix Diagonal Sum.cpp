@@ -15,7 +15,6 @@ void matSum(int arr[][3],int n){
 	}
 	cout<< "sum "<< sum << endl;
 }
-
 int main(){
 	int arr[3][3]={
 			{1,2,3},
